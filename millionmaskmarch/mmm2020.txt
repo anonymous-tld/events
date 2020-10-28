@@ -45,7 +45,7 @@ Hosted by: Anonymous South India
 
 Barcelona, Catalunya
 Location: Avinguda Meridiana
-Time: Nov 5 at 20:00
+Time: Nov 5 at 20:00 local time
 Hosted by: Anonymous
 
 Buenos Aires, Capital Federal, Argentina
@@ -74,13 +74,13 @@ Hosted by: Jaed Nile
 
 Eskişehir, Turkey
 Location: Doktorlar Caddesi, TURKEY/ESKİŞEHİR
-Time: 08.30 p.m.
+Time: 08.30 p.m. local time
 Event link: https://freenet.space/events/9/
 Hosted by: Anonymous
 
 Glasgow, Scotland
 Location: George Square
-Time: 7pm-10pm
+Time: 7pm-10pm local time 
 Event link: https://twitter.com/Anon_Glasgow20
 Hosted by: Anon Glasgow
 
@@ -111,7 +111,7 @@ Hosted by: Anonymous ZA
 
 Katowice, Poland
 Location: Pomnik Powstańców Śląskich
-Time: 18:00
+Time: 18:00 local time 
 Event link: https://www.facebook.com/events/631738231113699/
 Hosted by: Anonymous Katowice / Silesia
 
@@ -135,7 +135,7 @@ Hosted by: México con Julian
 
 Milan, Italy
 Location: Piazza Duomo Milano
-Time: 6 PM – 10 PM
+Time: 6 PM – 10 PM local time
 Event link: https://www.facebook.com/events/3088282947914608/
 Hosted by: Anonymous Italia
 
@@ -160,8 +160,8 @@ Hosted by: Anonymous CA, United States
 Sao Paulo, Brasil
 Location: Avenida Paulista, Bela Vista, São Paulo - SP, 01310-100
 Time: 6 PM – 11:45 PM UTC-03
-Event link: https://www.facebook.com/events/3449297451776818
-Hosted by: Anonymous MMM Brasil
+Event link: https://twitter.com/youranoncyr3x/status/1321284358871896066
+Hosted by: cyr3x (twitter: @youranoncyr3x)
 
 Tampa, Florida, United States
 Location: Lykes Gaslight Park 241 E Madison St, Tampa, FL 33602, United States
