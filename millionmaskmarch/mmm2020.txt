@@ -53,6 +53,12 @@ Location: Brandenburger Tor, Berlin Germany Pariser Platz 1
 Time: 17:00 - 23:59 local time
 Hosted by: Anonymous Deutschland
 
+Bucharest, Romania
+Location: Fantana De La Universitate
+Time: 17:00 UTC+1 - 22:00 UTC+1
+Event link: https://www.facebook.com/events/264298721373863
+Hosted by: Anonymous Romania
+
 Buenos Aires, Capital Federal, Argentina
 Location: Plaza del Congreso, Av. Entre Ríos y Av. Rivadavia
 Time: 16:00 hs local time
@@ -106,7 +112,7 @@ Guatemala, Guatemala
 Location: 6 Avenida y 18 Calle zona 1  Centro Histórico
 Time: 5 pm local time 
 Event link: https://twitter.com/UnruledAnon/status/1309709053409611780?s=19
-Hosted by: Anonymous Guatemala
+Hosted by: Anonymous Guatemala (this march is canceled by its organiser)
 
 Hanoi, Vietnam
 Location: Phố Đi Bộ
@@ -124,7 +130,7 @@ Johannesburg, South Africa
 Location: To be confirmed.
 Time: 4 PM – 8 PM UTC+02
 Event link: https://www.facebook.com/events/884247472102281/
-Hosted by: Anonymous ZA
+Hosted by: Anonymous ZA (this march is canceled by its organiser)
 
 Katowice, Poland
 Location: Pomnik Powstańców Śląskich
@@ -187,7 +193,7 @@ Pietersburg, South Africa
 Location: Marshall St, Flora Park, Polokwane
 Time: 4:30 PM – 12 AM UTC+02
 Event link: https://www.facebook.com/events/2792608344305462/
-Hosted by: Grim H. Sec
+Hosted by: Grim H. Sec (This march is canceled by its organiser)
 
 San Diego, California, United States
 Location: WaterFront Park 1600 Pacific Hwy, San Diego, CA 92101
@@ -201,17 +207,25 @@ Time: 9 am local time
 Event link: https://twitter.com/youranoncyr3x/status/1321284358871896066
 Hosted by: cyr3x (twitter: @youranoncyr3x)
 
+Seattle, Washington, United States
+Location: West Lake Park, 401 Pine Street
+Time: 6 pm local time
+Event link: https://www.facebook.com/events/947388882414528
+Hosted by: Anonymous
+
 Tampa, Florida, United States
 Location: Lykes Gaslight Park 241 E Madison St, Tampa, FL 33602, United States
 Time: 10:30am EST
 Event link: https://twitter.com/TampaMmm
 Hosted by: MMM Tampa
 
-Seattle, Washington, United States
-Location: West Lake Park, 401 Pine Street
-Time: 6 pm local time
-Event link: https://www.facebook.com/events/947388882414528
-Hosted by: Anonymous
+Toronto, Ontario, Canada
+Location: Toronto City Hall
+100 Queen St W, Toronto, ON M5H 2N2
+Toronto,Ontario,Canada
+Time: 5pm EST
+Event link: https://twitter.com/pedohunter_d/status/1324123807855054849?s=20
+Hosted by: George D. Colford
 
 Washington DC, United States
 Location: Washington Monument
