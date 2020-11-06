@@ -27,7 +27,7 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://pastebin.com/raw/VpFUqaaU
+          url: https://pastebin.com/raw/BWt2NwRP
           # The location of the file in the repository to update if changed
           file_in_repo: millionmaskmarch/mmm2021.txt
           # The name of the git user
