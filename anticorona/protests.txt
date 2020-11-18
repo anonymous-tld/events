@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
+DE,2020-11-18,08:00:00,10117,Berlin,Regierungsviertel,Livestream,https://youtu.be/_EjjxBDsS-8
 DE,2020-11-18,08:25:00,10117,Berlin,Bundestag,Livestream,https://youtu.be/3l9FDbex1OI
 DE,2020-11-18,08:45:00,10117,Berlin,Regierungsviertel,Livestream,https://demo.stream/kanal/?id=15
 DE,2020-11-18,08:45:00,10117,Berlin,Bundestag,Livestream,https://demo.stream/epochtimes
