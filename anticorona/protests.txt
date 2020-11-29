@@ -1,25 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-11-29,01:00:00,80335,München,Stachus,Revolte,
-DE,2020-11-29,09:00:00,25451,Quickborn,Forumsplatz,Kundgebung,
-DE,2020-11-29,10:00:00,02763,Zittau-Sassnitz,B 96,Menschenkette,
-DE,2020-11-29,10:45:00,75015,Bretten,Marktplatz,Meditation,
-DE,2020-11-29,11:00:00,73614,Schorndorf,Marktplatz,Musik,
-DE,2020-11-29,11:00:00,91301,Forchheim,Park Ritter-von-Traitteur-Schu,Kundgebung,
-DE,2020-11-29,11:00:00,91301,Forchheim,Park Ritter-von-Traitteur-Schu,Kundgebung,
-DE,2020-11-29,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-DE,2020-11-29,11:59:00,52525,Heinsberg,Parkplatz Ostpromenade,Spaziergang,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-DE,2020-11-29,12:00:00,52525,Heinsberg,Parkplatz Ostpromenade,Kundgebung,https://www.youtube.com/channel/UCfEP3b2s5yTEKWDSLWAflug
-DE,2020-11-29,13:00:00,94209,Regen,Stadtplatz,Kundgebung,
-DE,2020-11-29,13:00:00,94209,Regen,Stadtplatz,Kundgebung,
-DE,2020-11-29,13:00:00,83527,Haag,Marktplatz,Kundgebung,
-DE,2020-11-29,13:00:00,40545,Düsseldorf,Kaiser-Willhelm-Ring / Festwiese,Autokorso,
-DE,2020-11-29,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
-DE,2020-11-29,14:00:00,90403,Nürnberg,Andreij-Sacharow-Platz,Kundgebung,
-AT,2020-11-29,14:00:00,6900,Bregenz,Festspielhaus,Kundgebung,
-DE,2020-11-29,14:30:00,54516,Wittlich,Platz an der Lieser,Kundgebung,
-DE,2020-11-29,14:30:00,50667,Köln,auf dem Heumarkt,Mahnwache,
-DE,2020-11-29,15:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,
-DE,2020-11-29,15:30:00,69469,Weinheim,Schlosspark,Kundgebung,https://t.me/querdenken_6201
 DE,2020-11-30,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,
 DE,2020-11-30,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,
 DE,2020-11-30,17:00:00,33098,Paderborn,Rathausplatz,Spaziergang,
