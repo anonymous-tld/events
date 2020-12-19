@@ -1,4 +1,4 @@
-name: Keep tagesliste.txt uptodate
+name: Keep tagesliste.html uptodate
 on:      
   schedule:
     # * is a special character in YAML so you have to quote this string
@@ -14,7 +14,7 @@ jobs:
           # The url of the file to download
           url: https://demo.terminkalender.top/tagesliste/index.php
           # The location of the file in the repository to update if changed
-          file_in_repo: anticorona/tagesliste.txt
+          file_in_repo: anticorona/tagesliste.html
           # The name of the git user
           git_user: anonymous-tld
           # The email of the git user
