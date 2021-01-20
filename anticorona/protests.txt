@@ -1,6 +1,7 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 DE,2021-01-20,17:00:00,70376,Stuttgart,Cannstatter Wasen,Autokorso,,,
 DE,2021-01-20,17:00:00,70372,Stuttgart,Cannstatter Wasen Parkplatz P9,Autokorso,,,
+DE,2021-01-20,17:00:00,23795,Bad Segeberg,Markt,Kundgebung,,,
 DE,2021-01-20,17:15:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,
 DE,2021-01-20,17:15:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,
 DE,2021-01-20,17:15:00,70174,Stuttgart,Denkerdenkmal,Kundgebung,,,
@@ -49,6 +50,7 @@ DE,2021-01-24,09:00:00,78467,Konstanz,Querdenken 753 Headoffice,Freizeit,,,
 DE,2021-01-24,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
 DE,2021-01-24,13:00:00,83527,Haag / Oberbayern,Marktplatz,Kundgebung,,,
 DE,2021-01-24,15:00:00,04680,Colditt,LiDL Parkplatz,Kundgebung,,,
+DE,2021-01-24,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de
 DE,2021-01-24,16:00:00,14195,Berlin,Finkenstr. 21,Spaziergang,,,
 DE,2021-01-24,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,
 DE,2021-01-25,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,
