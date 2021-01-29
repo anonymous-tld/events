@@ -68,7 +68,7 @@ AT,2021-01-31,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,nature-culture.acade
 DE,2021-01-31,14:30:00,50667,Köln,Alter Markt,Mahnwache,,selberDenken,
 DE,2021-01-31,15:30:00,82140,Olching / FFB,Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de
 DE,2021-01-31,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,
-DE,2021-01-31,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,#MerkelMussWeg,
+DE,2021-01-31,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://demo.stream/live,#MerkelMussWeg,
 DE,2021-01-31,18:29:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-02-01,13:15:00,31785,Hameln,Marktkirche St. Nicolai,Kundgebung,,,
 DE,2021-02-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
