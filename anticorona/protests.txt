@@ -48,6 +48,7 @@ DE,2021-02-06,14:30:00,68163,Mannheim,Maimarkt P20,Autokorso,,QD 6201,https://t.
 DE,2021-02-06,14:30:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,Querdenken,
 DE,2021-02-06,15:00:00,57072,Siegen,Koblenzer Str. 73 / Kreishaus,Kundgebung,,Siegen in Frieden,
 DE,2021-02-06,15:00:00,97733,Oberthulba,Marktplatz,Versammlung,,Privat,
+DE,2021-02-06,15:00:00,97723,Oberthulba,Marktplatz,Versammlung,,Privat,
 DE,2021-02-06,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 DE,2021-02-06,15:00:00,55545,Bad Kreuznach,Kornmarkt,Kundgebung,,,
 DE,2021-02-06,15:15:00,99423,Weimar,Theaterplatz,Kundgebung,,Bürger für Deutschland,
