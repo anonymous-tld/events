@@ -5,10 +5,12 @@ DE,2021-02-07,11:00:00,71522,Backnang,Gänsebrunnen / Rathaus,Musik,,Horn For Ho
 DE,2021-02-07,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona-Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/
 DE,2021-02-07,13:00:00,85354,Freising,Luitpoldanlage,Kundgebung,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live,BSZusammen / Fboten / QD,https://tgstat.com/channel/@bayern_steht_zusammen/89
 DE,2021-02-07,13:00:00,85356,Freising,Luitpoldanlage,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+DE,2021-02-07,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,,
 DE,2021-02-07,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,
 AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at
 AT,2021-02-07,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at
 DE,2021-02-07,14:00:00,86150,Augsburg,Plärrer,Autokorso,,Grundrechte-Wahren,http://www.grundrechte-wahren.de
+DE,2021-02-07,14:30:00,07131,Heilbronn,Theresienwiesen,Autokorso,,,
 AT,2021-02-07,15:00:00,1010,Wien,Maria-Thersien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
 DE,2021-02-07,15:00:00,64720,Michelstadt,Bienenmarkt-Platz,Kundgebung,,,
 DE,2021-02-07,15:00:00,41061,Mönchengladbach,Sonnenhausplatz / MG vor Minto,Demonstration,,MG DEMO,https://www.facebook.com/MG.DEMO.Info
