@@ -47,7 +47,6 @@ DE,2021-02-08,19:00:00,63322,Rödermark,Kath. Kirche Urberach,Spaziergang,,,
 DE,2021-02-08,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,
 DE,2021-02-08,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 DE,2021-02-08,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,
-DE,2021-02-08,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin
 DE,2021-02-08,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt
 DE,2021-02-09,17:30:00,55131,Mainz,Ernst-Ludwig-Platz,Demonstration,,Freiheitsflotte,
 DE,2021-02-09,18:00:00,79117,Freiburg,Möslepark / Aufstellung 17:30,Autokorso,,,
@@ -82,7 +81,6 @@ DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-02-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-02-15,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,
 DE,2021-02-15,19:00:00,63322,Rödermark,Kath. Kirche Urberach,Spaziergang,,,
-DE,2021-02-15,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin
 DE,2021-02-17,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,
 DE,2021-02-18,17:00:00,63457,Großauheim,Rochusplatz,Mahnwache,,,
 DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,
@@ -97,8 +95,6 @@ DE,2021-02-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-02-22,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,
 DE,2021-02-22,19:00:00,63322,Rödermark,Kath. Kirche Urberach,Kundgebung,,,
 DE,2021-02-22,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
-DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Kundgebung,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin
-DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin
 DE,2021-02-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,
 DE,2021-02-25,17:00:00,63457,Großauheim,Rochusplatz,Mahnwache,,,
 DE,2021-02-25,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,
