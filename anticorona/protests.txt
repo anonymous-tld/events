@@ -97,6 +97,7 @@ DE,2021-02-17,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,
 DE,2021-02-18,17:00:00,63457,Großauheim,Rochusplatz,Mahnwache,,,
 DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,
 DE,2021-02-19,14:00:00,78467,Konstanz,Altstadtring,Autokorso,,Querdenken / Bürgerdialog,http://www.buergerdialog-konstanz.de
+DE,2021-02-20,14:00:00,12161,Berlin,Walter Schreiber Platz,Aufzug,,Der Schweigemarsch,http://www.der-schweigemarsch.de
 DE,2021-02-20,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,
 DE,2021-02-20,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,
 DE,2021-02-21,13:00:00,83512,Wasserburg am Inn,Festplatz am Badria,Kundgebung,,Bayern steht zamm,https://www.bayern-steht-zusammen.de/
