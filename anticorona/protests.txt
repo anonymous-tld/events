@@ -37,6 +37,7 @@ DE,2021-02-13,13:00:00,76530,Baden-Baden,Lange Str. 2,Kundgebung,,aufRECHT-FREId
 AT,2021-02-13,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
 DE,2021-02-13,14:00:00,54290,Trier,Viehmarkt,Demonstration,,Team Freiheit Trier,
 DE,2021-02-13,14:00:00,83022,Rosenheim,Mangfallpark Süd,Kundgebung,,Rosenheim steht auf,
+DE,2021-02-13,14:00:00,33098,Paderborn,Herz-Jesu Kirche / Westerntor,Aufzug,,,
 DE,2021-02-13,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org
 DE,2021-02-13,14:00:00,83646,Bad Tölz,Marktstraße,Musik,,Gesang u. Tanz angemeldet,
 DE,2021-02-13,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,
@@ -47,6 +48,7 @@ DE,2021-02-13,15:00:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Querdenken 211,
 DE,2021-02-13,15:00:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Querdenken 211,http://Querdenken211.de
 DE,2021-02-13,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234,https://querdenken-234.de
 DE,2021-02-13,15:30:00,17166,Teterow,Marktplatz,Kundgebung,,,
+DE,2021-02-13,15:30:00,33098,Paderborn,Domplatz,Kundgebung,,,
 DE,2021-02-13,15:30:00,07548,Gera,Markt,Spaziergang,,,
 DE,2021-02-13,17:00:00,85049,Ingolstadt,Theaterplatz,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 DE,2021-02-14,11:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,,http://www.freiheitsbewegung-forchheim.de
@@ -65,6 +67,7 @@ DE,2021-02-14,16:00:00,23879,Mölln,Historischer Marktplatz,Spaziergang,,,
 DE,2021-02-15,08:30:00,24105,Kiel,Landtag,Event,,Ministerium für Menschenrechte,https://mfmr.de/sites/mfmr/spontandemo/termine
 DE,2021-02-15,11:55:00,24105,Kiel,Landtag,Menschenkette,,Ministerium für Menschenrechte,https://mfmr.de/sites/mfmr/spontandemo/termine
 DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
+DE,2021-02-15,17:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,,
 DE,2021-02-15,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,
 DE,2021-02-15,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,
 DE,2021-02-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
