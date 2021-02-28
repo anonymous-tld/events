@@ -8,7 +8,7 @@ DE,2021-02-28,14:00:00,83022,Rosenheim,Max-Josefs-Platz,Kundgebung,,Mahnwache Ro
 DE,2021-02-28,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,
 DE,2021-02-28,14:00:00,63477,Maintal / Dörnigheim,Sportzentrum / Dicke Buche,Spaziergang,,Bürgerinitiative Hanau steht auf,https://hanau-steht-auf.de/
 AT,2021-02-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,
-DE,2021-02-28,14:00:00,84503,Altötting,Duftplatz,Kundgebung,,,
+DE,2021-02-28,14:00:00,84503,Altötting,Dultplatz,Kundgebung,,,
 DE,2021-02-28,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de
 DE,2021-02-28,14:30:00,88400,Biberach / Riß,Gigelberg,Kundgebung,,,
 DE,2021-02-28,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de
