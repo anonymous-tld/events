@@ -50,6 +50,7 @@ DE,2021-03-08,19:00:00,99084,Erfurt,Angerbrunnen,Spaziergang,,,
 DE,2021-03-08,19:00:00,51465,Bergisch Gladbach,Konrad-Adenauer-Platz,Versammlung,,,
 DE,2021-03-08,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,,
 DE,2021-03-08,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,
+DE,2021-03-09,18:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
 DE,2021-03-09,18:00:00,33758,Holte-Stukenbrock,Kirchplatz / Holter,Lichterkette,,Privat,
 DE,2021-03-09,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,,
@@ -60,12 +61,14 @@ DE,2021-03-10,17:00:00,70173,Stuttgart,Schillerplatz / Marktplatz,Demonstration,
 DE,2021-03-10,17:00:00,75172,Pforzheim,Kienlestr. 25 / Hilda Gymn.,Demonstration,,,
 DE,2021-03-10,17:00:00,75172,Pforzheim,Kiehnlestr. 25 / Gymnasium,Aufzug,,,
 DE,2021-03-10,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+DE,2021-03-10,18:00:00,97070,Würzburg / Lengfeld,Stauferstr. / Pilzgr.,Spaziergang,,Eltern stehen auf,
 DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-10,18:00:00,29221,Celle,Hafen,Kundgebung,,,
 DE,2021-03-11,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,
 DE,2021-03-11,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 DE,2021-03-11,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-03-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,
+DE,2021-03-11,18:00:00,80539,München,Odeonsplatz,Demonstration,https://www.youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA,Ulrike Pfeffer / UlliOma u.a.,https://t.me/UlliOma_Muc
 DE,2021-03-11,18:00:00,70771,Leinfelden Echterdingen,Kirchplatz Echterdingen,Versammlung,,,
 DE,2021-03-11,18:00:00,93413,Cham,Am Floßhafen / Frey-Eingang,Demonstration,,,
 DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
@@ -121,6 +124,7 @@ DE,2021-03-15,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 DE,2021-03-15,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-15,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,
 DE,2021-03-15,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,
+DE,2021-03-15,18:00:00,07973,Greiz,Markt / Rathaus,Spaziergang,,,
 DE,2021-03-15,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 DE,2021-03-15,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,
 DE,2021-03-15,18:30:00,97688,Bad Kissingen,Parkfriedhof / Parkplatz,Spaziergang,,Privat,
@@ -154,6 +158,7 @@ DE,2021-03-25,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,
 DE,2021-03-26,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,
 DE,2021-03-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org
 DE,2021-03-27,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,
+DE,2021-03-27,15:00:00,52064,Aachen,Tivoli,Kundgebung,,Euregio steht auf,
 DE,2021-03-27,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 AT,2021-03-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,https://corona-demo.at/
 DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
