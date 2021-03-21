@@ -25,6 +25,7 @@ DE,2021-03-22,18:00:00,33098,Paderborn,Herz-Jesu Kirche/Westerntor NE,Spaziergan
 DE,2021-03-22,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,
 DE,2021-03-22,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
 DE,2021-03-22,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
+DE,2021-03-22,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,privat,https://t.me/MontagsMahnwache
 DE,2021-03-22,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,,
 DE,2021-03-22,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Charlottenburger Promenade immer montags seit 9. November,https://t.me/abendlaeuten
 DE,2021-03-22,18:30:00,97723,Oberthulba,Waldstr. 30 / MZ-Halle Parkplatz,Spaziergang,,Privat,
@@ -64,6 +65,7 @@ DE,2021-03-27,14:00:00,26122,Oldenburg,Schloßplatz,Schweigemarsch,,,https://www
 DE,2021-03-27,14:15:00,93047,Regensburg,Haidplatz,Demonstration,,Aufruf zum Denken - Gegen die Maskenpflicht,
 DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,querdenken-6341.de
 DE,2021-03-27,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
+DE,2021-03-27,17:00:00,06846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau
 DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,
 DE,2021-03-28,12:00:00,13347,Berlin,Nettelbeckplatz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
 DE,2021-03-28,14:00:00,94032,Passau,Klostergarten,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
@@ -72,6 +74,7 @@ AT,2021-03-28,14:00:00,6800,Feldkirch,Leonhardsplatz / Montforthaus,Kundgebung,,
 DE,2021-03-28,14:00:00,95050,Bamberg,Fuchsparkstadion,Autokorso,,,
 DE,2021-03-29,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
+DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
 DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing
