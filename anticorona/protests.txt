@@ -2,7 +2,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1958,DE,2021-03-26,16:00:00,64287,Darmstadt,Landgraf-Georg-Str. 128,Schilderwald,,,
 1851,DE,2021-03-26,16:00:00,64625,Bensheim,Platanenallee / Parkhaus,Schilderwald,,Privat,
 1887,DE,2021-03-26,17:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
-2018,DE,2021-03-26,17:00:00,80331,München,Marienplatz / Ausweich Stachus,Kundgebung,,Open Mic München,
+2018,DE,2021-03-26,17:00:00,80331,München,Lenbachplatz,Kundgebung,,Open Mic München,
 1838,DE,2021-03-26,17:30:00,02943,Weisswasser,Marktplatz,Aufzug,,AfD,
 2016,DE,2021-03-26,17:30:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/4594
 2017,DE,2021-03-26,17:30:00,09648,Mittweida,Markt,Kundgebung,,,
@@ -61,7 +61,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1804,DE,2021-03-28,14:00:00,94032,Passau,Klostergarten,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 1983,DE,2021-03-28,14:00:00,94034,Passau,Klostergarten,Kundgebung,,,
 1923,DE,2021-03-28,14:00:00,84453,Mühldorf,Stadtplatz,Kundgebung,,,
-1834,DE,2021-03-28,14:00:00,63454,Hanau / Kesselstadt,Kurt-Schumacher-Platz,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de
 1985,DE,2021-03-28,14:00:00,58097,Hagen,Am Sportpark 34,Autokorso,,Freiheitsfahrer,
 1845,AT,2021-03-28,14:00:00,6800,Feldkirch,Leonhardsplatz / Montforthaus,Kundgebung,,,https://corona-demo.at/
 1930,AT,2021-03-28,14:00:00,6800,Feldkirch,Montfortplatz / Montforthaus,Kundgebung,,,http://corona-demo.at/
