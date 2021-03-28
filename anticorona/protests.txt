@@ -39,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
 2062,DE,2021-03-29,18:00:00,87435,Kempten / Allgäu,Hildegardplatz / am Brunnen,Kundgebung,,Privat,
+2080,DE,2021-03-29,18:00:00,07973,Greiz,Markt,Spaziergang,,,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2046,DE,2021-03-29,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
