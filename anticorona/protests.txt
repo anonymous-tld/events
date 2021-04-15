@@ -9,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2455,DE,2021-04-16,11:00:00,40221,Düsseldorf,Voelklinger Str. 49 / Schulministerium,Kundgebung,,unbekannt,
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2397,DE,2021-04-16,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Fahrraddemo,,Privat,
+2475,DE,2021-04-16,17:00:00,80634,München,Rotkreuzplatz,Demonstration,,Open Mic Demo,https://openmic.onrender.com/
 2452,DE,2021-04-16,17:00:00,85356,Freising,Luitpoldanlage,Autokorso,,unbekannt,https://AutokorsoInfoUnterschleissheim
 2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
@@ -62,6 +63,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2464,DE,2021-04-20,18:00:00,14467,Potsdam,Schiffbauergasse 7,Autokorso,,unbekannt,
 2468,DE,2021-04-20,18:00:00,64711,Erbach,Marktplatz / am Schloss,Spaziergang,,unbekannt,
+2474,DE,2021-04-21,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2294,DE,2021-04-23,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
