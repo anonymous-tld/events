@@ -21,6 +21,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2417,DE,2021-04-17,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
 2415,DE,2021-04-17,14:00:00,65185,Wiesbaden,Reisinger Anlagen,Kundgebung,,unbekannt,
+2476,DE,2021-04-17,14:00:00,65185,Wiesbaden,Luisenplatz / Kultusministerium,Kundgebung,,Bürgerinitiative LimburgSTEHTauf,https://www.limburgstehtauf.de
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 2445,DE,2021-04-17,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,unbekannt,
@@ -32,6 +33,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2419,DE,2021-04-17,14:00:00,40213,Düsseldorf,Hofgarten,Demonstration,,Wir gestalten unsere Zukunft,https://www.es-reicht-uns.de
 2413,DE,2021-04-17,14:00:00,10117,Berlin,Friedrichstr. 108,Kundgebung,,unbekannt,
 2344,DE,2021-04-17,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
+2477,DE,2021-04-17,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2469,DE,2021-04-17,15:00:00,38518,Gifhorn,Rathaus,Kundgebung,https://twitch.tv/demokratievs1984,Elterinitiative Gifhorner Schüler/innen,
 2472,DE,2021-04-17,15:30:00,29389,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2231,DE,2021-04-17,15:30:00,19370,Parchim,Festplatz Bergstr. / Martinimarkt,Kundgebung,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,unbekannt,
