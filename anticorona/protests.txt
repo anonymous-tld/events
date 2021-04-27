@@ -37,7 +37,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2827,DE,2021-05-01,11:00:00,29223,Celle,Schützenplatz,Kundgebung,,Celle steht auf,
 2570,CH,2021-05-01,13:30:00,6900,Lugano,Parco Tassino,Kundgebung,,Cittadini pacifici e comuni come te,
 2451,DE,2021-05-01,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,https://t.me/freundevonpegida
-2027,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2816,DE,2021-05-01,14:00:00,30169,Hannover,Maschsee / Nordufer,Kundgebung,,unbekannt,
 2815,DE,2021-05-01,14:00:00,49152,Bad Essen,An der Breede / beim Labyrinth,Autokorso,,Autocorso,
 2824,DE,2021-05-01,15:00:00,50679,Köln,Deutzer Werft,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
