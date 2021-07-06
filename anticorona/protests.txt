@@ -8,7 +8,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3691,DE,2021-07-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3758,DE,2021-07-07,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3764,DE,2021-07-07,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD Landesverband Brandenburg,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
-3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main �Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3776,DE,2021-07-08,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3762,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://www.facebook.com/michael.honda.16906,Demo gegen die GEZ,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
 3773,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://dlive.tv/MichaelHonda,Von Mensch zu Mensch,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
