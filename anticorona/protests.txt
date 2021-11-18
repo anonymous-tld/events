@@ -1,10 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21692,DE,2021-11-18,11:00:00,10777,Berlin,Brandenburger Tor / Pl. d. 18. März,Livestream,https://dlive.tv/IKB_ungelogen_tv,UNGELOGEN,
-21688,DE,2021-11-18,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-21636,DE,2021-11-18,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
-3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21710,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21594,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
+21710,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21706,DE,2021-11-19,17:00:00,10315,Berlin,Alt-Friedrichsfelde 78 Parkpl.,Autokorso,,Autokorso Berlin-Das Original,
 21709,DE,2021-11-19,17:30:00,76133,Karlsruhe,Stephansplatz,Versammlung,,Rechtsstaat ist in Gefahr,https://grundrechte.jetzt
 21714,DE,2021-11-19,18:00:00,91126,Schwabach,Martin-Luther-platz,Kundgebung,,WIR für die Freiheit,
