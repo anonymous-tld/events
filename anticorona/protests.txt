@@ -10,8 +10,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21775,AT,2021-11-27,14:00:00,3100,Sankt Pölten,Kremsergasse / Libro / Hauptbhf.,Demonstration,,Lukas Würrer,https://www.demo-info.at/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21770,DE,2021-11-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
-21804,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche (/ Löhrcenter,Mahnwache,,unbekannt,
 21786,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche / Löhrcenter,Mahnwache,,unbekannt,
+21804,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche (/ Löhrcenter,Mahnwache,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
 21756,DE,2021-11-27,14:00:00,30169,Hannover,Ritter-Brüning /Lodemanweg / Parkpl.,Autokorso,,Autocorso-Hannover,
 21828,DE,2021-11-27,14:00:00,36036,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,www.frieden-freiheit.de
@@ -77,6 +77,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21819,DE,2021-12-06,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,
 21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
+21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
