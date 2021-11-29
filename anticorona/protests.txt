@@ -31,8 +31,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21838,DE,2021-12-03,15:30:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
-21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
+21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309
@@ -58,9 +58,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
+21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21889,DE,2021-12-11,08:00:00,63739,Aschaffenburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21888,DE,2021-12-11,08:00:00,59755,Arnsberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21886,DE,2021-12-11,08:00:00,99976,Anrode,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21885,DE,2021-12-11,08:00:00,17389,Anklam,City,Kundgebung,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21883,DE,2021-12-11,08:00:00,16278,Angermünde,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21884,DE,2021-12-11,08:00:00,83454,Anger,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21882,DE,2021-12-11,08:00:00,56626,Andernach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21881,DE,2021-12-11,08:00:00,86972,Altenstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21878,DE,2021-12-11,08:00:00,96146,Altendorf,City,Freizeit,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21880,DE,2021-12-11,08:00:00,96264,Altekunstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de
 21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21887,DE,2021-12-12,08:00:00,59609,Anröchte,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21791,DE,2021-12-12,15:00:00,47057,Duisburg,Hauptbahnhof,Demonstration,,PEGIDA NRW,
 21810,DE,2021-12-13,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21811,DE,2021-12-13,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -73,6 +86,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
 21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
+21879,DE,2021-12-20,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,
 21832,DE,2021-12-20,19:00:00,27382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21664,DE,2021-12-20,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
