@@ -43,6 +43,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22020,DE,2021-12-06,18:30:00,36433,Bad Salzungen,Marktplatz,Spaziergang,,unbekannt,
 21875,DE,2021-12-06,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,
 21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+22173,DE,2021-12-06,19:00:00,83313,Siegsdorf,Rathaus,Revolte,,Ortsgruppe,
 22055,DE,2021-12-06,19:00:00,16303,Schwedt,Vierradener Strasse,Spaziergang,,unbekannt,https://t.me/demokratiefreiheitsouveraenitaet
 22149,DE,2021-12-06,19:00:00,87724,Ottobeuren,Marktplatz,Treffpunkt,,unbekannt,
 21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
@@ -87,8 +88,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22097,DE,2021-12-10,08:00:00,63065,Offenbach,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22091,DE,2021-12-10,08:00:00,90402,Nürnberg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
+21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22095,DE,2021-12-10,08:00:00,48149,Münster,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22080,DE,2021-12-10,08:00:00,80331,München,Altstadt/Zentrum,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22085,DE,2021-12-10,08:00:00,04105,Leipzig,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -128,11 +129,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22129,DE,2021-12-10,19:00:00,52062,Aachen,Elisenbrunnen,Kundgebung,,unbekannt,
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22063,DE,2021-12-11,08:00:00,20097,Hamburg,Hafen City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/80
-22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -164,6 +165,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21864,DE,2021-12-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://t.me/querdenken_nrw
 22054,DE,2021-12-11,15:30:00,85049,Ingolstadt,Theaterplatz,Kundgebung,,Bayern steht zusammen  | IN-Samstagsdemos,https://bayern-steht-zusammen.de
 22077,DE,2021-12-11,16:00:00,26419,Schortens,Bahnhof,Spaziergang,,Schortens analog,
+22172,DE,2021-12-11,16:00:00,29410,Salzwedel,Rathausturmplatz,Treffpunkt,,unbekannt,
 21938,DE,2021-12-11,17:00:00,50765,Köln Chorweiler,Liverpooler Platz,Spaziergang,,Koeln ist aktiv,http://koelnistaktiv.de
 22012,DE,2021-12-11,18:00:00,89407,Dillingen/Donau,Taxispark,Spaziergang,,unbekannt,
 21887,DE,2021-12-12,08:00:00,59609,Anröchte,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
