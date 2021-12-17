@@ -390,7 +390,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55142,DE,2021-12-20,18:30:00,17268,Templin,Marktplatz,Spaziergang,,unbekannt,http://t.me/frieden_freiheit_souveraenitaet
 55058,DE,2021-12-20,18:30:00,21682,Stade,Altes Rathaus,Sonstiges,,unbekannt,
 55057,DE,2021-12-20,18:30:00,27419,Sittensen,Rathaus,Sonstiges,,unbekannt,
-55121,DE,2021-12-20,18:30:00,25421,Pinneberg,Pinneberger Rathaus,Spaziergang,You tube, Facebook, Tick Tock.,Freie Menschen,
+55121,DE,2021-12-20,18:30:00,25421,Pinneberg,Pinneberger Rathaus,Spaziergang,,Freie Menschen,
 55118,DE,2021-12-20,18:30:00,82377,Penzberg,Stadtplatz,Kundgebung,,unbekannt,
 54740,DE,2021-12-20,18:30:00,67433,Neustadt an der Wein,Hetzelplatz,Kundgebung,,unbekannt,
 55129,DE,2021-12-20,18:30:00,84524,Neuötting,Stadtplatz / Rathaus,Spaziergang,,Mahnwache Neuötting,https://t.me/Bayern_Vernetzung_Gruppen
