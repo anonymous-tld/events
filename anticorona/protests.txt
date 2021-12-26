@@ -312,8 +312,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66670,DE,2021-12-30,18:00:00,49479,Ibbenbüren,Am Brunnen / Oberer Markt,Demonstration,,Kaldewei LL. M. Rechtsanwalt,https://t.me/AnkerIbbenbueren
 66709,DE,2021-12-30,18:00:00,97688,Bad Kissingen,Landratsamt,Spaziergang,,unbekannt,
 66720,DE,2021-12-30,19:00:00,52062,Aachen,Elisenbrunnen,Spaziergang,,Freie Bürger Aachen,
-55541,DE,2021-12-31,13:00:00,63741,Aschaffenburg,Volksfestplatz,Spaziergang,,unbekannt,
 66710,DE,2021-12-31,13:00:00,63739,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,
+55541,DE,2021-12-31,13:00:00,63741,Aschaffenburg,Volksfestplatz,Spaziergang,,unbekannt,
 21964,DE,2021-12-31,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 55540,AT,2021-12-31,16:30:00,6900,Bregenz,Vor der Bezirkshauptmannschaft,Kundgebung,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48574
 66689,AT,2021-12-31,17:00:00,8430,Leibnitz,EKZ Leibnitz Wasserwerkstraße,Spaziergang,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48820
@@ -329,6 +329,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66782,AT,2022-01-01,14:00:00,9020,Klagenfurt,Stadttheater / Theaterplatz,Kundgebung,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48920
 55222,DE,2022-01-01,14:00:00,52511,Geilenkirchen,Am Markt,Demonstration,,Aufgewachte Menschen,
 55234,DE,2022-01-01,14:00:00,52511,Geilenkirchen,Am Markt,Treffpunkt,,Die Menschen aus Geilenkirchen,
+66816,DE,2022-01-01,15:00:00,94032,Passau,Klostergarten,Spaziergang,,unpräzise,
 66769,DE,2022-01-01,15:00:00,50823,Köln,Neptunplatz,Kundgebung,https://youtube.com/c/Agent00Bielefeld/live,unbekannt,
 66694,DE,2022-01-01,15:00:00,60313,Frankfurt am Main,Alte Oper,Spaziergang,,unbekannt,
 55452,DE,2022-01-01,15:00:00,40231,Düsseldorf,Johannes-Rau-Platz,Aufzug,,unbekannt,
