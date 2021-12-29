@@ -367,7 +367,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66929,DE,2022-01-03,18:30:00,46325,Borken,Marktplatz,Spaziergang,,unbekannt,
 67019,DE,2022-01-03,18:30:00,46325,Borken,Marktplatz,Spaziergang,,Bürger vor Ort,
 67224,DE,2022-01-03,18:30:00,10178,Berlin,Weltzeituhr / am Alex,Spaziergang,,,
-67051,DE,2022-01-03,18:30:00,10178,Berlin,Alexanderplatz, Weltzeituhr,Spaziergang,,,
+67051,DE,2022-01-03,18:30:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Spaziergang,,,
 67099,DE,2022-01-03,18:30:00,61343,Bad Homburg,Rathausplatz,Spaziergang,,,https://www.bbfu.de/corona.html
 67135,DE,2022-01-03,18:30:00,29549,Bad Bevensen,Am Kirchplatz,Spaziergang,,,
 54318,DE,2022-01-03,18:30:00,99510,Apolda,Rathaus/ Markt,Spaziergang,,unbekannt,
