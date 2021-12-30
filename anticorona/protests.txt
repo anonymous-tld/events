@@ -90,7 +90,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66898,DE,2022-01-01,18:00:00,73326,Deggingen,Gesamter Ort,Spaziergang,,Separatismus Bewegung Deutschland,
 67254,DE,2022-01-01,19:00:00,92431,Neunburg v w,Schwarzachtalhalle,Spaziergang,,,
 66948,DE,2022-01-01,19:00:00,37359,Effelder,Eichsfeld Dom,Kundgebung,,unbekannt,
-67066,NL,2022-01-02,12:00:00,1071DJ,Amsterdam,Museumplein,Demonstration,,,http://www.samenvoornl.nl
+67066,NL,2022-01-02,12:00:00,1071DJ,Amsterdam,Museumplein,Demonstration,,unbekannt,http://www.samenvoornl.nl
 67067,NL,2022-01-02,12:00:00,1071DJ,Amsterdam,Museumplein,Demonstration,,,http://www.samenvoornl.nl
 67250,AT,2022-01-02,13:00:00,4020,Linz,Hauptplatz,Kundgebung,,DEMO LINZ FREIHEIT,https://t.me/DEMOLINZFREIHEIT/1160
 66996,DE,2022-01-02,13:00:00,16866,Kyritz,Marktplatz,Spaziergang,,unbekannt,
