@@ -545,7 +545,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 68657,DE,2022-01-31,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 68571,DE,2022-01-31,18:00:00,88069,Tettnang,Rathaus,Kundgebung,,unbekannt,
 67679,AT,2022-01-31,18:00:00,4400,Steyr,Stadtplatz,Spaziergang,,unbekannt,
-70147,DE,2022-01-31,18:00:00,68723,Schwetzingen,Palais Hirsch, / Schlossplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offges.de/sz-19/
+70147,DE,2022-01-31,18:00:00,68723,Schwetzingen,Palais Hirsch / Schlossplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offges.de/sz-19/
 70103,DE,2022-01-31,18:00:00,31553,Sachsenhagen,Rathaus,Spaziergang,,unbekannt,
 70181,DE,2022-01-31,18:00:00,01945,Ruhland,Markt,Spaziergang,,unbekannt,
 67856,DE,2022-01-31,18:00:00,93128,Regenstauf,Hauptstr.,Spaziergang,,unbekannt,
