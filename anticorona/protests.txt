@@ -40,7 +40,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72548,DE,2022-03-05,15:00:00,21073,Hamburg,Harburger Rathaus,Aufzug,,unbekannt,
 72043,DE,2022-03-05,15:00:00,15517,Fürstenwalde,Am Stern,Demonstration,,unbekannt,https://www.facebook.com/groups/739194777055575
 72440,DE,2022-03-05,15:00:00,60329,Frankfurt am Main,Taunusanlage,Demonstration,,unbekannt,
-72599,DE,2022-03-05,15:00:00,40474,Düsseldorf,RHEINPARK, Robert-Lehr-Ufer,Aufzug,,APO - Düsseldorf,http://Aponrw.de
+72599,DE,2022-03-05,15:00:00,40474,Düsseldorf,RHEINPARK Robert-Lehr-Ufer,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 72555,DE,2022-03-05,15:00:00,40474,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,,unbekannt,
 72661,DE,2022-03-05,15:01:00,40239,Düsseldorf,Düsseltal,Spaziergang,,unbekannt,
 72565,DE,2022-03-05,15:30:00,75172,Pforzheim,Marktplatz,Kundgebung,,unbekannt,
