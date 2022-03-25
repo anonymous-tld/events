@@ -22,6 +22,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72845,DE,2022-03-26,14:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/Evil-Truth,Unsere Zukunft,
 73235,DE,2022-03-26,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
+73376,DE,2022-03-26,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc/381
 73317,DE,2022-03-26,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSein Freiburg,
 72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 73236,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
@@ -31,17 +32,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73204,DE,2022-03-26,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 73195,DE,2022-03-26,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
 73227,DE,2022-03-26,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
-73314,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz v.d.Kunstsammlung,Demonstration,,Freie Bürger Düsseldorf,
 73313,DE,2022-03-26,15:30:00,4000,Düsseldorf,Grabbeplatz,Demonstration,,unbekannt,
+73314,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz v.d.Kunstsammlung,Demonstration,,Freie Bürger Düsseldorf,
 73318,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Freie Bürger Düsseldorf,https://t.me/CoronaRebellenDuesseldorf
 73231,DE,2022-03-26,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73046,DE,2022-03-26,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73339,DE,2022-03-26,18:00:00,72764,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,,unbekannt,
+73377,DE,2022-03-26,18:00:00,73326,Deggingen,Gesamter Ort,Spaziergang,,unbekannt,
 73301,DE,2022-03-26,19:00:00,24103,Kiel,Rathausplatz,Zusammenkunft,,unbekannt,
 73014,DE,2022-03-26,20:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,unbekannt,
 73245,DE,2022-03-27,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de/covid-19.htm
 73232,DE,2022-03-27,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73048,DE,2022-03-27,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
+73378,DE,2022-03-27,15:00:00,21073,Hamburg Harburg,Rathausplatz,Aufzug,,Bürgerbündnis Harburg,
 73047,DE,2022-03-27,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
 72478,DE,2022-03-27,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 73166,DE,2022-03-27,16:30:00,06406,Bernburg,Weltzeituhr /  Karlsplatz,Spaziergang,,unbekannt,
@@ -52,10 +55,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73233,DE,2022-03-28,17:00:00,40764,Langenfeld,Marktplatz / Rathaus,Spaziergang,,Langenfeld-denkt-anders,
 72758,DE,2022-03-28,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 73285,DE,2022-03-28,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,unbekannt,
+73384,DE,2022-03-28,17:30:00,45131,Essen-Rüttenscheid,Messeparkplatz P2,Spaziergang,,Querdenken201,
 72666,DE,2022-03-28,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 71019,DE,2022-03-28,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,
 73264,DE,2022-03-28,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,
 73305,DE,2022-03-28,18:00:00,97353,Wiesentheid,Mariensäule,Spaziergang,,unbekannt,
+73381,DE,2022-03-28,18:00:00,06667,Weißenfels,Marktplatz,Spaziergang,,Weißenfels steht AUF !,
 73188,DE,2022-03-28,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 72684,DE,2022-03-28,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,
 73203,DE,2022-03-28,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
@@ -100,8 +105,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
 73251,DE,2022-03-28,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
 73304,DE,2022-03-28,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
-72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 73138,DE,2022-03-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73303,DE,2022-03-28,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
 73247,DE,2022-03-28,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
@@ -114,8 +119,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+73380,DE,2022-03-28,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Naumburg steht AUF !,
 73322,DE,2022-03-28,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 73369,DE,2022-03-28,19:00:00,84048,Mainburg,Abensberger Str. 22,Kundgebung,,unbekannt,
+73379,DE,2022-03-28,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 73257,DE,2022-03-28,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
 73278,DE,2022-03-28,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
 73141,DE,2022-03-28,19:00:00,52062,Aachen,Marktplatz,Spaziergang,,Freie Bürger Aachen,
@@ -130,6 +137,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73269,DE,2022-03-30,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 73385,DE,2022-03-30,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73268,DE,2022-03-30,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
+73382,DE,2022-03-30,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Freyburg steht AUF !,
 71942,DE,2022-03-30,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
 73243,DE,2022-03-31,11:30:00,91052,Erlangen,Schlossplatz,Aufzug,,Privat,
 71732,DE,2022-03-31,14:00:00,91052,Erlangen,Berliner Platz. Park,Spaziergang,,Alarmstufe Rot,
@@ -150,6 +158,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73341,DE,2022-04-02,11:00:00,20095,Hamburg,Vor dem Rathaus,Aufzug,,Rathausdemo,https://www.rathausdemo.de
 72887,DE,2022-04-02,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 72888,DE,2022-04-02,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
+73383,DE,2022-04-02,15:00:00,52062,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,https://dlive.tv/PatriotOnTour,Aachener Bündnis gegen Impfpflichrt,https://t.me/euregio_united
 73357,DE,2022-04-02,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73275,DE,2022-04-02,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73367,DE,2022-04-03,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Gerhard Pettenkofer,https://t.me/BayernStehtZusammenTermine/391
@@ -197,6 +206,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73326,DE,2022-04-18,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73281,DE,2022-04-18,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
+73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73361,DE,2022-04-23,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 72670,DE,2022-04-25,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -215,8 +225,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72672,DE,2022-05-09,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 72674,DE,2022-05-23,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
