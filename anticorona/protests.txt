@@ -10,19 +10,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74778,DE,2022-06-27,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,,
 74755,DE,2022-06-27,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74779,DE,2022-06-27,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74807,DE,2022-06-27,18:00:00,17207,Röbel / Müritz,Rathaus,Kundgebung,,,
+74808,DE,2022-06-27,18:00:00,84307,Eggenfelden,Stadtplatz Eggenfelden,Spaziergang,,,
 74803,DE,2022-06-27,18:29:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,,,
 74785,DE,2022-06-27,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74722,DE,2022-06-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74386,DE,2022-06-27,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
+74809,DE,2022-06-29,19:00:00,06618,Naumburg,Vogelwiese / Friedenstraße,Demonstration,,Naumburg zeigt Gesicht- das Original,https://t.me/naumburgzeigtgesichtdasoriginal
 74629,DE,2022-06-30,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74380,DE,2022-06-30,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74669,DE,2022-07-01,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
