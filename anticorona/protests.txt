@@ -59,9 +59,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75659,DE,2022-10-31,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
 75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
+75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
+75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,
+75680,DE,2022-12-31,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75681,DE,2023-01-07,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75682,DE,2023-01-14,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75683,DE,2023-01-21,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75684,DE,2023-01-28,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75663,DE,2023-10-02,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (vor der,Spaziergang,,,
 74733,DE,2033-06-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,
